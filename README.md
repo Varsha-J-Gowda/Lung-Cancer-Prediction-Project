@@ -17,3 +17,6 @@ Implementing classifiers like Logistic Regression, Decision Trees, and Random Fo
 Using accuracy, precision, recall, and F1-score.
 ### 📊 Results & Insights
 The models tested included Logistic Regression, Random Forest, Gradient Boosting, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN). Through rigorous 5-fold cross-validation, Logistic Regression emerged as the most suitable model, achieving a mean CV score of 0.8738 ± 0.0057, tied with SVM but chosen for its simplicity, efficiency, and interpretability—key factors in healthcare applications. The results demonstrate that Logistic Regression not only offers high accuracy but also provides robust and consistent predictions, making it a reliable model for early lung cancer detection.
+
+
+**Maintained by**: [@krutanic](https://github.com/krutanic)
